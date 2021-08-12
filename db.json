@@ -1,0 +1,46 @@
+{"articleArr": [{
+    "id"        : "1",
+    "author"    : "Christoph",
+    "date"      : "24.5.2021",
+    "category"  : ["counseling","women"],
+    "headline"  : "Counseling open again",
+    "teaser"    : "Das Sozialgericht Karlsruhe verurteilte das lokale Jobcenter zur monatlichen Zahlung von 129€ extra, zur Anschaffung von FFP2 Masken in ausreichender Anzahl (Pressemitteilung des Sozialgerichts). Konkret sprach das Sozialgericht von 20 Masken pro Woche. Es verwies dabei auf den Infektionsschutz und die fehlende Schutzwirkung medizinischer Masken. Zusätzlich sprach es sich gegen eine Wiederverwendung von FFP2 Masken aus.",
+    "content"   : "hirmit beantrage ich die Übernahme der Kosten für die Anschaffung von 20 FFP2 Masken pro Woche, ersatzweise die Übersendung eines entsprechenden Gutscheins. Aufgrund der weiterhin hohen Corona Infektionszahlen und dem für mich noch nicht verfügbaren Impfstoff, bietet eine FFP2 Maske aktuell die einzige Möglichkeit zum Selbststschutz und Schutz meiner Umgebung während der Teilhabe am gesellschaftlichen Leben, wie z.B. Einkaufen, Benutzung des ÖPNV oder des Treppenhauses zu meiner Wohnung. Durch das Tragen einer FFP2 Maske kann ich einen wichtigen Beitrag zur Eindämmung der Pandemie leisten, deren Kosten in keinem Verhältnis zur Anschaffung der von mir Beantragten FFP2 Masken stehen. Bezüglich der beantragten Anzahl an FFP2 Masken, beziehe ich mich auf die Ausführungen des SG Karlsruhe in seinem Urteil vom 11.2.2021:"
+    },
+    {
+    "id"        : "2",
+    "author"    : "Gerda",
+    "date"      : "30.6.2021",
+    "category"  : ["counseling","tipps"],
+    "headline"  : "Welocme to our Website",
+    "teaser"    : "Teaser Lorem Ipsumd",
+    "content"   : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit sint inventore voluptatem ratione saepe dolorum eum adipisci laborum illo! Aliquam distinctio in omnis, dolores animi quae rerum labore ad magnam."
+    },
+    {
+    "id"        : "3",
+    "author"    : "Gerda",
+    "date"      : "30.6.2021",
+    "category"  : ["counseling","tipps"],
+    "headline"  : "Welocme to our Website",
+    "teaser"    : "Teaser Lorem Ipsumd",
+    "content"   : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit sint inventore voluptatem ratione saepe dolorum eum adipisci laborum illo! Aliquam distinctio in omnis, dolores animi quae rerum labore ad magnam."
+    },
+    {
+    "id"        : "4",
+    "author"    : "Gerda",
+    "date"      : "30.6.2021",
+    "category"  : ["counseling","tipps"],
+    "headline"  : "Welocme to our Website",
+    "teaser"    : "Teaser Lorem Ipsumd",
+    "content"   : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit sint inventore voluptatem ratione saepe dolorum eum adipisci laborum illo! Aliquam distinctio in omnis, dolores animi quae rerum labore ad magnam."
+    },
+    {
+    "id"        : "5",
+    "author"    : "Gerda",
+    "date"      : "30.6.2021",
+    "category"  : ["counseling","tipps"],
+    "headline"  : "Welocme to our Website",
+    "teaser"    : "Teaser Lorem Ipsumd",
+    "content"   : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit sint inventore voluptatem ratione saepe dolorum eum adipisci laborum illo! Aliquam distinctio in omnis, dolores animi quae rerum labore ad magnam."
+    }]
+}
