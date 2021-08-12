@@ -42,5 +42,44 @@
     "headline"  : "Welocme to our Website",
     "teaser"    : "Teaser Lorem Ipsumd",
     "content"   : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit sint inventore voluptatem ratione saepe dolorum eum adipisci laborum illo! Aliquam distinctio in omnis, dolores animi quae rerum labore ad magnam."
-    }]
+    }],
+
+"userNavbar": [
+    {
+        "title": "About",
+        "link": "about"
+    },
+    {
+        "title": "Counseling",
+        "link": "about"
+    },
+    {
+        "title": "Women*Group",
+        "link": "women"
+    },
+    {
+        "title": "Campaign",
+        "link": "campaign"
+    },
+    {
+        "title": "Legal Advice",
+        "link": "legal"
+    },
+    {
+        "title": "Contact",
+        "link": "contact"}
+],
+"adminNavbar": [
+    {"type" : "addText",
+        "name" : "add a new text",
+        "icon" : "✏"},
+        
+        {"type" : "editText",
+            "name" : "edit text",
+            "icon" : "📖"
+        },
+        {"type" : "manage",
+            "name" : "manage pages",
+            "icon" : "📂"}
+]
 }
