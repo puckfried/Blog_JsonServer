@@ -25,7 +25,7 @@
     },
     {
         "title": "Counseling",
-        "link": "about"
+        "link": "counsel"
     },
     {
         "title": "Women*Group",
@@ -55,5 +55,27 @@
         {"type" : "manage",
             "name" : "manage pages",
             "icon" : "📂"}
-]
+],
+"places": 
+    [{
+        "name"    : "Wedding",
+        "length"  : 52.5482640026,
+        "width"   : 13.36738536266527,
+        "street"  : "Schererstraße",
+        "hours"   : "Do: 15-20"
+    },
+    {
+        "name"    : "Neukölln",
+        "length"  : 52.47784630645588,
+        "width"   : 13.424118356081907,
+        "street"  : "Weißestraße",
+        "hours"   : "Do 18-20" 
+    },
+    {
+        "name"    : "Lichtenberg",
+        "length"  : 52.51446068290108,  
+        "width"   : 13.488464988661427,
+        "street"  : "Magdalenenstraße",
+        "hours"   : "Di 18-20"
+    }]
 }
